@@ -7,3 +7,5 @@ Resumo de comandos do curso de Versionamento de Git da [Dital Innovation One](ht
 
 - [Documentação Git](https://git-scm.com/docs/git)
 - [Documentação GitHub](https://docs.github.com/pt)
+
+## 🔍Dicas
